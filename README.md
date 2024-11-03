@@ -1,2 +1,2 @@
 # supritn97.
-Personal  Repo.
+Personal  Repository
